@@ -7,11 +7,10 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: brown;
+    background-color: #DADFE8;
 }
 
 .pokedex{
-    background-color: rgb(253, 250, 250);
     display: flex;
     gap: 30px;
     padding: 30px,0;
